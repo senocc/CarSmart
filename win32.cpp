@@ -1,5 +1,7 @@
 #include<windows.h>
 #include<stdio.h>
+using namespace std;
+
 
 HANDLE g_hOutput = 0;
 
@@ -137,4 +139,5 @@ int WINAPI WinMain(
         }
     }    
 }
+
 
