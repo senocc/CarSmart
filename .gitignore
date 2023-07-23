@@ -1,5 +1,4 @@
 /backup
-/win32.exe
+/*.exe
 /.vscode
 /test1.cpp
-/test1.exe
